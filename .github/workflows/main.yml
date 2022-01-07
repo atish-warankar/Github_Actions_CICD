@@ -1,4 +1,4 @@
-is workflow will build a MuleSoft project and is manually triggered for deployment.
+	# This workflow will build a MuleSoft project and is manually triggered for deployment.
 	
 	name: Manual workflow
 	
